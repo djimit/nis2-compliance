@@ -1,0 +1,8 @@
+{
+  "name": "nis2-compliance",
+  "description": "NIS2 / Cyberbeveiligingswet compliance checker. Toetst organisaties op NIS2-zorgplicht, meldplicht (24u/72u/1maand), bestuurlijke verantwoordelijkheid, supply chain security, en risicomanagement. Bevat sectorale classificatie en BIO2-koppeling voor overheidsorganisaties.",
+  "version": "0.1.0",
+  "author": { "name": "Dennis Landman", "email": "dennis@djimit.nl" },
+  "license": "MIT",
+  "keywords": ["NIS2", "Cyberbeveiligingswet", "Cbw", "zorgplicht", "meldplicht", "supply-chain", "bestuurlijke-verantwoordelijkheid", "NCTV", "cybersecurity", "overheid", "BIO2", "kritieke-infrastructuur"]
+}
